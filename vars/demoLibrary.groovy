@@ -1,4 +1,4 @@
 def call() {
-  sh 'echo Hi august months ICU team'
+  sh 'echo Hi august months ICU teams'
 }
 
